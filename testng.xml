@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="MagicDriveSuite">
+  <test name="MagicDriveTestSuite" thread-count="5">
+    <classes>
+      <class name="test.MagicDriveTestcases">
+        <methods>
+          <include name="TC_01" />
+          <include name="TC_02" />
+          <include name="TC_03" />
+          <include name="TC_04" />
+          <include name="TC_05" />
+          <include name="TC_06" />
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

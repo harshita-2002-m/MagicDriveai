@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-20T11:49:08 IST" name="MagicDriveSuite" finished-at="2024-12-20T11:53:33 IST" duration-ms="265035">
+    <groups>
+    </groups>
+    <test started-at="2024-12-20T11:49:08 IST" name="MagicDriveTestSuite" finished-at="2024-12-20T11:53:33 IST" duration-ms="265035">
+      <class name="test.MagicDriveTestcases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.MagicDriveTestcases@67c27493]" started-at="2024-12-20T11:49:08 IST" name="setup" finished-at="2024-12-20T11:49:15 IST" duration-ms="6663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.MagicDriveTestcases@67c27493]" started-at="2024-12-20T11:49:15 IST" name="setUp" finished-at="2024-12-20T11:49:15 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_01()[pri:1, instance:test.MagicDriveTestcases@67c27493]" started-at="2024-12-20T11:49:15 IST" name="TC_01" finished-at="2024-12-20T11:50:45 IST" duration-ms="90299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.MagicDriveTestcases@67c27493]" started-at="2024-12-20T11:50:45 IST" name="teardown" finished-at="2024-12-20T11:50:45 IST" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.MagicDriveTestcases@67c27493]" started-at="2024-12-20T11:50:45 IST" name="setup" finished-at="2024-12-20T11:50:48 IST" duration-ms="2651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_02()[pri:2, instance:test.MagicDriveTestcases@67c27493]" started-at="2024-12-20T11:50:48 IST" name="TC_02" finished-at="2024-12-20T11:50:49 IST" duration-ms="660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02 -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.MagicDriveTestcases@67c27493]" started-at="2024-12-20T11:50:48 IST" name="setUp" finished-at="2024-12-20T11:50:48 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.MagicDriveTestcases@67c27493]" started-at="2024-12-20T11:50:49 IST" name="teardown" finished-at="2024-12-20T11:50:49 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.MagicDriveTestcases@67c27493]" started-at="2024-12-20T11:50:49 IST" name="setup" finished-at="2024-12-20T11:50:51 IST" duration-ms="2336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.MagicDriveTestcases@67c27493]" started-at="2024-12-20T11:50:51 IST" name="setUp" finished-at="2024-12-20T11:50:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_03()[pri:3, instance:test.MagicDriveTestcases@67c27493]" started-at="2024-12-20T11:50:51 IST" name="TC_03" finished-at="2024-12-20T11:51:22 IST" duration-ms="30360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_03 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.MagicDriveTestcases@67c27493]" started-at="2024-12-20T11:51:22 IST" name="teardown" finished-at="2024-12-20T11:51:22 IST" duration-ms="358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.MagicDriveTestcases@67c27493]" started-at="2024-12-20T11:51:22 IST" name="setup" finished-at="2024-12-20T11:51:25 IST" duration-ms="2655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_04()[pri:4, instance:test.MagicDriveTestcases@67c27493]" started-at="2024-12-20T11:51:25 IST" name="TC_04" finished-at="2024-12-20T11:51:55 IST" duration-ms="30093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_04 -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.MagicDriveTestcases@67c27493]" started-at="2024-12-20T11:51:25 IST" name="setUp" finished-at="2024-12-20T11:51:25 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.MagicDriveTestcases@67c27493]" started-at="2024-12-20T11:51:55 IST" name="teardown" finished-at="2024-12-20T11:51:55 IST" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.MagicDriveTestcases@67c27493]" started-at="2024-12-20T11:51:55 IST" name="setup" finished-at="2024-12-20T11:51:58 IST" duration-ms="2605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.MagicDriveTestcases@67c27493]" started-at="2024-12-20T11:51:58 IST" name="setUp" finished-at="2024-12-20T11:51:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_05()[pri:5, instance:test.MagicDriveTestcases@67c27493]" started-at="2024-12-20T11:51:58 IST" name="TC_05" finished-at="2024-12-20T11:52:29 IST" duration-ms="31055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_05 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.MagicDriveTestcases@67c27493]" started-at="2024-12-20T11:52:29 IST" name="teardown" finished-at="2024-12-20T11:52:29 IST" duration-ms="348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.MagicDriveTestcases@67c27493]" started-at="2024-12-20T11:52:29 IST" name="setup" finished-at="2024-12-20T11:52:32 IST" duration-ms="2928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_06()[pri:6, instance:test.MagicDriveTestcases@67c27493]" started-at="2024-12-20T11:52:32 IST" name="TC_06" finished-at="2024-12-20T11:53:33 IST" duration-ms="61099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_06 -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.MagicDriveTestcases@67c27493]" started-at="2024-12-20T11:52:32 IST" name="setUp" finished-at="2024-12-20T11:52:32 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.MagicDriveTestcases@67c27493]" started-at="2024-12-20T11:53:33 IST" name="teardown" finished-at="2024-12-20T11:53:33 IST" duration-ms="292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test.MagicDriveTestcases -->
+    </test> <!-- MagicDriveTestSuite -->
+  </suite> <!-- MagicDriveSuite -->
+</testng-results>

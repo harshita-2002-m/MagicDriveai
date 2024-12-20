@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="5" total="6" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-20T11:55:11 IST" name="Default suite" finished-at="2024-12-20T11:55:45 IST" duration-ms="34899">
+    <groups>
+    </groups>
+    <test started-at="2024-12-20T11:55:11 IST" name="Default test" finished-at="2024-12-20T11:55:45 IST" duration-ms="34899">
+      <class name="test.MagicDriveTestcases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.MagicDriveTestcases@3a52dba3]" started-at="2024-12-20T11:55:11 IST" name="setup" finished-at="2024-12-20T11:55:14 IST" duration-ms="3601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.MagicDriveTestcases@3a52dba3]" started-at="2024-12-20T11:55:14 IST" name="setUp" finished-at="2024-12-20T11:55:14 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_05()[pri:5, instance:test.MagicDriveTestcases@3a52dba3]" started-at="2024-12-20T11:55:14 IST" name="TC_05" finished-at="2024-12-20T11:55:45 IST" duration-ms="31114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_05 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.MagicDriveTestcases@3a52dba3]" started-at="2024-12-20T11:55:45 IST" name="teardown" finished-at="2024-12-20T11:55:45 IST" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test.MagicDriveTestcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
